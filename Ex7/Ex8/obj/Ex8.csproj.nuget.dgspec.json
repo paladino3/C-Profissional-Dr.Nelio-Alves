@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex3\\Terceiro\\Terceiro.csproj": {}
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex7\\Ex8\\Ex8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex3\\Terceiro\\Terceiro.csproj": {
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex7\\Ex8\\Ex8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex3\\Terceiro\\Terceiro.csproj",
-        "projectName": "Terceiro",
-        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex3\\Terceiro\\Terceiro.csproj",
+        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex7\\Ex8\\Ex8.csproj",
+        "projectName": "Ex8",
+        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex7\\Ex8\\Ex8.csproj",
         "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex3\\Terceiro\\obj\\",
+        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex7\\Ex8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
