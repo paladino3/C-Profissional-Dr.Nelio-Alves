@@ -1,0 +1,25 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\ex2 continuar\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache

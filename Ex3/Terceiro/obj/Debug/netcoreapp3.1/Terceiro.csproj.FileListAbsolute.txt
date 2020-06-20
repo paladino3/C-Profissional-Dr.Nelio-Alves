@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Entrada de dados em C# - PARTE 1\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.genruntimeconfig.cache

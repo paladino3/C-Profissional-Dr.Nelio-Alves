@@ -1,0 +1,12 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\bin\Debug\netcoreapp3.1\Segundo.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Segundo\Segundo\obj\Debug\netcoreapp3.1\Segundo.genruntimeconfig.cache
