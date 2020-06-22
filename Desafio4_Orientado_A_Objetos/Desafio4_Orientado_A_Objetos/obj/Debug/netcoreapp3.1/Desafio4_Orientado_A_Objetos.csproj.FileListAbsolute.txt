@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\bin\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\bin\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\bin\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\bin\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\bin\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\bin\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio4_Orientado_A_Objetos\Desafio4_Orientado_A_Objetos\obj\Debug\netcoreapp3.1\Desafio4_Orientado_A_Objetos.genruntimeconfig.cache
