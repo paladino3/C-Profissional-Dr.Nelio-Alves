@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\bin\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\bin\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\bin\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\bin\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\bin\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\bin\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex12_Orientado_a_Objetos\Ex12_Orientado_a_Objetos\obj\Debug\netcoreapp3.1\Ex12_Orientado_a_Objetos.genruntimeconfig.cache
