@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desafio5_Orientado_A_ObjetosCorrecao/1.0.0": {
+        "runtime": {
+          "Desafio5_Orientado_A_ObjetosCorrecao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio5_Orientado_A_ObjetosCorrecao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

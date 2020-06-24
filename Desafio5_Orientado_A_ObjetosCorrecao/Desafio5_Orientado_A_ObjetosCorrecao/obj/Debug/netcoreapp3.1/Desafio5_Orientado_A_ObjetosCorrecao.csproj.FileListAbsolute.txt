@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\bin\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\bin\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\bin\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\bin\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\bin\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\bin\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio5_Orientado_A_ObjetosCorrecao\Desafio5_Orientado_A_ObjetosCorrecao\obj\Debug\netcoreapp3.1\Desafio5_Orientado_A_ObjetosCorrecao.genruntimeconfig.cache
