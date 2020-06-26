@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio1\\ex1\\ex1.csproj": {}
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley\\Wesley\\Wesley.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio1\\ex1\\ex1.csproj": {
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley\\Wesley\\Wesley.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio1\\ex1\\ex1.csproj",
-        "projectName": "ex1",
-        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio1\\ex1\\ex1.csproj",
+        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley\\Wesley\\Wesley.csproj",
+        "projectName": "Wesley",
+        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley\\Wesley\\Wesley.csproj",
         "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio1\\ex1\\obj\\",
+        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley\\Wesley\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

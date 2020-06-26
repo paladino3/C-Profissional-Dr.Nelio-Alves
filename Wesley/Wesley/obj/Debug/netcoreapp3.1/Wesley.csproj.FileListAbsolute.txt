@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\bin\Debug\netcoreapp3.1\Wesley.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\bin\Debug\netcoreapp3.1\Wesley.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\bin\Debug\netcoreapp3.1\Wesley.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\bin\Debug\netcoreapp3.1\Wesley.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\bin\Debug\netcoreapp3.1\Wesley.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\bin\Debug\netcoreapp3.1\Wesley.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Wesley\Wesley\obj\Debug\netcoreapp3.1\Wesley.genruntimeconfig.cache
