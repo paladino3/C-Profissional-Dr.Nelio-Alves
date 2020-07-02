@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex23 TimeSpanPropriedades", "Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades.csproj", "{86922D37-2744-457B-82C4-284704683277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86922D37-2744-457B-82C4-284704683277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86922D37-2744-457B-82C4-284704683277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86922D37-2744-457B-82C4-284704683277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86922D37-2744-457B-82C4-284704683277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1F415E-2B4A-431B-ABD3-51EA5FBE0B25}
+	EndGlobalSection
+EndGlobal

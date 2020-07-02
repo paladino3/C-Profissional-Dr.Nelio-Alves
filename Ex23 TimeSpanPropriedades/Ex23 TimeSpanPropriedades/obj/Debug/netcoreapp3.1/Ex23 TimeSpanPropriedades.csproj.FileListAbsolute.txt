@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\bin\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\bin\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\bin\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\bin\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\bin\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\bin\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex23 TimeSpanPropriedades\Ex23 TimeSpanPropriedades\obj\Debug\netcoreapp3.1\Ex23 TimeSpanPropriedades.genruntimeconfig.cache
