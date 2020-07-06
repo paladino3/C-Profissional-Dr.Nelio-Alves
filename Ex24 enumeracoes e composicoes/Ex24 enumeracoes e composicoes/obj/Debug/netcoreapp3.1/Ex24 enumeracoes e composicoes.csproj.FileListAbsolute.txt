@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\bin\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\bin\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\bin\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\bin\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\bin\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\bin\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex24 enumeracoes e composicoes\Ex24 enumeracoes e composicoes\obj\Debug\netcoreapp3.1\Ex24 enumeracoes e composicoes.genruntimeconfig.cache

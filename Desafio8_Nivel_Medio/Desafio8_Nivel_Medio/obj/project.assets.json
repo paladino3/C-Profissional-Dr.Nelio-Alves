@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex22 DateTime\\Ex22\\Ex22.csproj",
-      "projectName": "Ex22",
-      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex22 DateTime\\Ex22\\Ex22.csproj",
+      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Desafio8_Nivel_Medio\\Desafio8_Nivel_Medio\\Desafio8_Nivel_Medio.csproj",
+      "projectName": "Desafio8_Nivel_Medio",
+      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Desafio8_Nivel_Medio\\Desafio8_Nivel_Medio\\Desafio8_Nivel_Medio.csproj",
       "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex22 DateTime\\Ex22\\obj\\",
+      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Desafio8_Nivel_Medio\\Desafio8_Nivel_Medio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
