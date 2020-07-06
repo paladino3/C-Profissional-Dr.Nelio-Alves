@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio9_Nivel_Medio\Desafio9_Nivel_Medio\obj\Debug\netcoreapp3.1\Desafio9_Nivel_Medio.csprojAssemblyReference.cache
