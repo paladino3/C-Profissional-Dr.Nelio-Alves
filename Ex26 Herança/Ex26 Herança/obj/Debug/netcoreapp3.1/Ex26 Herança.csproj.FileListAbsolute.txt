@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\bin\Debug\netcoreapp3.1\Ex26 Herança.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\bin\Debug\netcoreapp3.1\Ex26 Herança.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\bin\Debug\netcoreapp3.1\Ex26 Herança.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\bin\Debug\netcoreapp3.1\Ex26 Herança.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\bin\Debug\netcoreapp3.1\Ex26 Herança.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\bin\Debug\netcoreapp3.1\Ex26 Herança.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex26 Herança\Ex26 Herança\obj\Debug\netcoreapp3.1\Ex26 Herança.genruntimeconfig.cache

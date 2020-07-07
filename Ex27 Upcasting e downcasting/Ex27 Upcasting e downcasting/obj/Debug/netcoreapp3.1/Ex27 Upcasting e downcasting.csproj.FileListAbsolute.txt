@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\bin\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\bin\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\bin\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\bin\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\bin\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\bin\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex27 Upcasting e downcasting\Ex27 Upcasting e downcasting\obj\Debug\netcoreapp3.1\Ex27 Upcasting e downcasting.genruntimeconfig.cache

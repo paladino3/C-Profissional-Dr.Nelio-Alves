@@ -26,7 +26,8 @@ namespace Desafio9_Nivel_Medio
             int n = int.Parse(Console.ReadLine());
 
 
-            Order os = new Order(DateTime.Now, orderStatus);
+            Client client = new Client(name,email,date); 
+            Order os = new Order(DateTime.Now, orderStatus, client); // relacionando o cliente com a  ordem de servico
 
 
 
@@ -40,11 +41,10 @@ namespace Desafio9_Nivel_Medio
                 Console.Write("Product price: ");
                 double pPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+                Product prod = new Product(pName, pPrice);
+                
                 Console.Write("Quantity: ");
                 int pQuantity = int.Parse(Console.ReadLine());
-
-                Product prod = new Product(pName, pPrice);
-
 
                 //relacionando pedidos items com o produto
                 OrderItem osItem = new OrderItem(pQuantity, pPrice, prod);
@@ -52,12 +52,9 @@ namespace Desafio9_Nivel_Medio
                 os.AddItem(osItem);
 
             }
-
-            Console.WriteLine("Oder SUMMARY");
-            Console.WriteLine("Oder momment: " + os.Moment);
-            Console.WriteLine("Order status: " + os.Status);
-            Console.Write("Client: " + os.Client.Name + " " + os.Client.BirthDate + " - " + os.Client.Email);
-            Console.WriteLine("Order items: ");
+            Console.WriteLine();
+            Console.WriteLine("ORDER SUMMARY:");
+            Console.WriteLine(os);
         }
     }
 }

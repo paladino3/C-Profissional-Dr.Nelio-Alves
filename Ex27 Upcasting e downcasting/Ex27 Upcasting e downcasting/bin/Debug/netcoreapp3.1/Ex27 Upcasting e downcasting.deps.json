@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex27 Upcasting e downcasting/1.0.0": {
+        "runtime": {
+          "Ex27 Upcasting e downcasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex27 Upcasting e downcasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
