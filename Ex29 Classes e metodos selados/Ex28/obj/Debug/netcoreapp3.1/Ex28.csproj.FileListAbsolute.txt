@@ -1,0 +1,19 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\bin\Debug\netcoreapp3.1\Ex28.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\bin\Debug\netcoreapp3.1\Ex28.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\bin\Debug\netcoreapp3.1\Ex28.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\bin\Debug\netcoreapp3.1\Ex28.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\bin\Debug\netcoreapp3.1\Ex28.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\bin\Debug\netcoreapp3.1\Ex28.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex28\Ex28\obj\Debug\netcoreapp3.1\Ex28.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex29 Classes e metodos selados\Ex28\obj\Debug\netcoreapp3.1\Ex28.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex29 Classes e metodos selados\Ex28\obj\Debug\netcoreapp3.1\Ex28.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex29 Classes e metodos selados\Ex28\obj\Debug\netcoreapp3.1\Ex28.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex29 Classes e metodos selados\Ex28\obj\Debug\netcoreapp3.1\Ex28.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex29 Classes e metodos selados\Ex28\obj\Debug\netcoreapp3.1\Ex28.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex29 Classes e metodos selados\Ex28\obj\Debug\netcoreapp3.1\Ex28.pdb

@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\bin\Debug\netcoreapp3.1\Ex30.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\bin\Debug\netcoreapp3.1\Ex30.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\bin\Debug\netcoreapp3.1\Ex30.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\bin\Debug\netcoreapp3.1\Ex30.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\bin\Debug\netcoreapp3.1\Ex30.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\bin\Debug\netcoreapp3.1\Ex30.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex30 Ex30 Exercicio resolvido - PARTE 1 e 2\Ex30\obj\Debug\netcoreapp3.1\Ex30.genruntimeconfig.cache
