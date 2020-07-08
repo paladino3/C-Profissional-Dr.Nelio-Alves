@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Desafio11_Nivel_Medio</id>
+    <version>1.0.0</version>
+    <authors>Desafio11_Nivel_Medio</authors>
+    <owners>Desafio11_Nivel_Medio</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio11_Nivel_Medio\Desafio11_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio11_Nivel_Medio.runtimeconfig.json" target="lib\netcoreapp3.1\Desafio11_Nivel_Medio.runtimeconfig.json" />
+    <file src="C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio11_Nivel_Medio\Desafio11_Nivel_Medio\bin\Debug\netcoreapp3.1\Desafio11_Nivel_Medio.dll" target="lib\netcoreapp3.1\Desafio11_Nivel_Medio.dll" />
+  </files>
+</package>

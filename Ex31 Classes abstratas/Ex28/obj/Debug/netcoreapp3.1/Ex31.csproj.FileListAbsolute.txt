@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\bin\Debug\netcoreapp3.1\Ex31.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\bin\Debug\netcoreapp3.1\Ex31.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\bin\Debug\netcoreapp3.1\Ex31.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\bin\Debug\netcoreapp3.1\Ex31.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\bin\Debug\netcoreapp3.1\Ex31.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\bin\Debug\netcoreapp3.1\Ex31.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex31 Classes abstratas\Ex28\obj\Debug\netcoreapp3.1\Ex31.csprojAssemblyReference.cache
