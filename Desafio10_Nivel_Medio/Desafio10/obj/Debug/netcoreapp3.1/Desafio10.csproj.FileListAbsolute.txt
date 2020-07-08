@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\bin\Debug\netcoreapp3.1\Desafio10.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\bin\Debug\netcoreapp3.1\Desafio10.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\bin\Debug\netcoreapp3.1\Desafio10.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\bin\Debug\netcoreapp3.1\Desafio10.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\bin\Debug\netcoreapp3.1\Desafio10.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\bin\Debug\netcoreapp3.1\Desafio10.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio10\Desafio10\obj\Debug\netcoreapp3.1\Desafio10.genruntimeconfig.cache
