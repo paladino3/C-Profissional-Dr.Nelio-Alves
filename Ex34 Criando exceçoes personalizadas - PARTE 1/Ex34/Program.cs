@@ -7,6 +7,11 @@ namespace Ex34
     {
         static void Main(string[] args)
         {
+
+            /*
+             SOLUCAO MUITO RUIM, NAO DEVE SER FEITO ASSIM! O MESMO EXERCICIO SERA FEITO COM MELHORIAS, COM TRATAMENTOS DE ERROS, DELEGACOES DE REGRAS DE NEGOCIOS, E DESIGN DE CODE
+            */
+
             Console.Write("Room number: ");
             int number = int.Parse(Console.ReadLine());
             Console.Write("Check-in date (dd/MM/yyyy): ");

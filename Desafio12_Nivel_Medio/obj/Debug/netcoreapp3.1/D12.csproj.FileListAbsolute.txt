@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\bin\Debug\netcoreapp3.1\D12.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\bin\Debug\netcoreapp3.1\D12.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\bin\Debug\netcoreapp3.1\D12.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\bin\Debug\netcoreapp3.1\D12.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\bin\Debug\netcoreapp3.1\D12.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\bin\Debug\netcoreapp3.1\D12.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Desafio12_Nivel_Medio\obj\Debug\netcoreapp3.1\D12.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rolim\\source\\repos\\Ex34\\Ex34\\Ex34.csproj": {}
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex34 Criando exceçoes personalizadas - PARTE 1\\Ex34\\Ex34.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rolim\\source\\repos\\Ex34\\Ex34\\Ex34.csproj": {
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex34 Criando exceçoes personalizadas - PARTE 1\\Ex34\\Ex34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rolim\\source\\repos\\Ex34\\Ex34\\Ex34.csproj",
+        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex34 Criando exceçoes personalizadas - PARTE 1\\Ex34\\Ex34.csproj",
         "projectName": "Ex34",
-        "projectPath": "C:\\Users\\rolim\\source\\repos\\Ex34\\Ex34\\Ex34.csproj",
+        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex34 Criando exceçoes personalizadas - PARTE 1\\Ex34\\Ex34.csproj",
         "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rolim\\source\\repos\\Ex34\\Ex34\\obj\\",
+        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex34 Criando exceçoes personalizadas - PARTE 1\\Ex34\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
