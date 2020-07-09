@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\bin\Debug\netcoreapp3.1\Ex40.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\bin\Debug\netcoreapp3.1\Ex40.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\bin\Debug\netcoreapp3.1\Ex40.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\bin\Debug\netcoreapp3.1\Ex40.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\bin\Debug\netcoreapp3.1\Ex40.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\bin\Debug\netcoreapp3.1\Ex40.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex40\obj\Debug\netcoreapp3.1\Ex40.genruntimeconfig.cache

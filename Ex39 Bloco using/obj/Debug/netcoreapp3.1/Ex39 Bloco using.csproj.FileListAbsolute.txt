@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\bin\Debug\netcoreapp3.1\Ex39 Bloco using.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\bin\Debug\netcoreapp3.1\Ex39 Bloco using.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\bin\Debug\netcoreapp3.1\Ex39 Bloco using.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\bin\Debug\netcoreapp3.1\Ex39 Bloco using.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\bin\Debug\netcoreapp3.1\Ex39 Bloco using.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\bin\Debug\netcoreapp3.1\Ex39 Bloco using.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex39 Bloco using\obj\Debug\netcoreapp3.1\Ex39 Bloco using.genruntimeconfig.cache
