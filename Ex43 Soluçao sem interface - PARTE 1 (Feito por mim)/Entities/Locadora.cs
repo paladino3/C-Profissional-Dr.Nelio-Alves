@@ -8,14 +8,15 @@ namespace Ex43.Entities
 {
     class Locadora
     {
-        public string ModeloCarro { get; set; }
-        public DateTime Entrada { get; set; }
-        public DateTime Saida { get; set; }
-        public double PrecoHora { get; set; }
-        public double PrecoDia { get; set; }
-        public double SubTotal { get; set; }
-        public double Impostos { get; set; }
-        public double Total { get; set; }
+        public string       ModeloCarro         { get; private set; }
+        public DateTime     Entrada             { get; private set; }
+        public DateTime     Saida               { get; private set; }
+        public double       PrecoHora           { get; private set; }
+        public double       PrecoDia            { get; private set; }
+        public double       SubTotal            { get; private set; }
+        public double       Impostos            { get; private set; }
+        public double       Total               { get; private set; }
+
         public Locadora(string modeloCarro, DateTime entrada, DateTime saida, double precoHora, double precoDia)
         {
             if(saida < entrada)
@@ -29,6 +30,7 @@ namespace Ex43.Entities
             PrecoHora = precoHora;
             PrecoDia = precoDia;
         }
+
         public double Imposto()
         {
             Total = 0.0;
@@ -86,7 +88,7 @@ namespace Ex43.Entities
 
 
             }
-            else if (tempo.TotalHours < 12)
+            else if (tempo.TotalHours <= 12)
             {
                 dias += tempo.Days;
                 minutos += tempo.Minutes;

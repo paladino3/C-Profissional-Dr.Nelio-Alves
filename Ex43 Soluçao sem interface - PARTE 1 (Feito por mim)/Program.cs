@@ -8,10 +8,12 @@ namespace Ex43
     {
         static void Main(string[] args)
         {
+            /*
+             * Solucao MUITO RUIM
+             Exercicio feito da maneira errada! sem separar as entidades, e sem adotar a implementacao de servicoes e interfaces!
+            */
             try
             {
-
-
                 Console.WriteLine("Aluguel de carros dados");
                 Console.Write("Modelo do carro: ");
                 string modelo = Console.ReadLine();

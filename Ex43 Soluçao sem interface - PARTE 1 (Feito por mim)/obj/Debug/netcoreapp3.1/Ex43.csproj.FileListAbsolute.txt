@@ -11,3 +11,16 @@ C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43\obj\Debug\netco
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43\obj\Debug\netcoreapp3.1\Ex43.dll
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43\obj\Debug\netcoreapp3.1\Ex43.pdb
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43\obj\Debug\netcoreapp3.1\Ex43.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\bin\Debug\netcoreapp3.1\Ex43.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\bin\Debug\netcoreapp3.1\Ex43.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\bin\Debug\netcoreapp3.1\Ex43.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\bin\Debug\netcoreapp3.1\Ex43.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\bin\Debug\netcoreapp3.1\Ex43.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\bin\Debug\netcoreapp3.1\Ex43.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex43 Soluçao sem interface - PARTE 1 (Feito por mim)\obj\Debug\netcoreapp3.1\Ex43.genruntimeconfig.cache
