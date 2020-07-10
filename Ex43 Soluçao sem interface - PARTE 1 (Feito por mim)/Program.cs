@@ -27,7 +27,10 @@ namespace Ex43
                 Locadora locadora = new Locadora(modelo, retirada, devolucao, precoHora, precoDia);
 
                 locadora.Duracao(retirada, devolucao, precoHora, precoDia);
+                locadora.Imposto();
 
+                Console.WriteLine("\nNota DE SERViÇO: ");
+                Console.WriteLine(locadora.ToString());
 
             }
             catch (Exception e)
