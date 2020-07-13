@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\bin\Debug\netcoreapp3.1\Ex45.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\bin\Debug\netcoreapp3.1\Ex45.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\bin\Debug\netcoreapp3.1\Ex45.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\bin\Debug\netcoreapp3.1\Ex45.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\bin\Debug\netcoreapp3.1\Ex45.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\bin\Debug\netcoreapp3.1\Ex45.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex45 Herança multipla e o problema do diamante\obj\Debug\netcoreapp3.1\Ex45.genruntimeconfig.cache

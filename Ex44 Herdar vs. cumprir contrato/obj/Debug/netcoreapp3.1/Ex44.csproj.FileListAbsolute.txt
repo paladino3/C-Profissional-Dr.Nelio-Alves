@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\bin\Debug\netcoreapp3.1\Ex44.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\bin\Debug\netcoreapp3.1\Ex44.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\bin\Debug\netcoreapp3.1\Ex44.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\bin\Debug\netcoreapp3.1\Ex44.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\bin\Debug\netcoreapp3.1\Ex44.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\bin\Debug\netcoreapp3.1\Ex44.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex44 Herdar vs. cumprir contrato\obj\Debug\netcoreapp3.1\Ex44.genruntimeconfig.cache

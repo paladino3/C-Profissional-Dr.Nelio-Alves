@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Ex44.Entities;
+using Ex44.Model.Enums;
+using System;
 
 namespace Ex44
 {
@@ -6,7 +8,12 @@ namespace Ex44
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IShape figura1 = new Circle(2.0, Color.White) { };
+            IShape figura2 = new Rectangle(3.5, 4.2, Color.Black) { };
+
+
+            Console.WriteLine(figura1);
+            Console.WriteLine(figura2);
         }
     }
 }

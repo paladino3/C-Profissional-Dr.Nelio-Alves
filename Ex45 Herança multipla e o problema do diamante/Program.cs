@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ex45.Devices;
+using System;
 
 namespace Ex45
 {
@@ -6,7 +7,15 @@ namespace Ex45
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Printer printer = new Printer() { SerialNumber = 2080 };
+            printer.ProcessDoc("Teste");
+            printer.Print("Teste");
+
+
+            Scanner scanner = new Scanner() { SerialNumber = 2070 };
+            scanner.ProcessDoc("My email");
+
+            Console.WriteLine(scanner.Scan());
         }
     }
 }
