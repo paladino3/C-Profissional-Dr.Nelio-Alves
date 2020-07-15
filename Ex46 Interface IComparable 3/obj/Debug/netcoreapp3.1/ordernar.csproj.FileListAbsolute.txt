@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\ordernar\bin\Debug\netcoreapp3.1\ordernar.exe
+C:\Users\rolim\Desktop\ordernar\bin\Debug\netcoreapp3.1\ordernar.deps.json
+C:\Users\rolim\Desktop\ordernar\bin\Debug\netcoreapp3.1\ordernar.runtimeconfig.json
+C:\Users\rolim\Desktop\ordernar\bin\Debug\netcoreapp3.1\ordernar.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\ordernar\bin\Debug\netcoreapp3.1\ordernar.dll
+C:\Users\rolim\Desktop\ordernar\bin\Debug\netcoreapp3.1\ordernar.pdb
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.AssemblyInfo.cs
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.dll
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.pdb
+C:\Users\rolim\Desktop\ordernar\obj\Debug\netcoreapp3.1\ordernar.genruntimeconfig.cache
