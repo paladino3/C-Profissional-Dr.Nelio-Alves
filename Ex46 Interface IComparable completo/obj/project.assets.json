@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46 Interface IComparable\\Ex46.csproj",
+      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46\\Ex46.csproj",
       "projectName": "Ex46",
-      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46 Interface IComparable\\Ex46.csproj",
+      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46\\Ex46.csproj",
       "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46 Interface IComparable\\obj\\",
+      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

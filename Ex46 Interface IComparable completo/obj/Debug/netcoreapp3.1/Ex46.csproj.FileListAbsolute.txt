@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\bin\Debug\netcoreapp3.1\Ex46.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\bin\Debug\netcoreapp3.1\Ex46.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\bin\Debug\netcoreapp3.1\Ex46.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\bin\Debug\netcoreapp3.1\Ex46.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\bin\Debug\netcoreapp3.1\Ex46.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\bin\Debug\netcoreapp3.1\Ex46.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex46\obj\Debug\netcoreapp3.1\Ex46.genruntimeconfig.cache
