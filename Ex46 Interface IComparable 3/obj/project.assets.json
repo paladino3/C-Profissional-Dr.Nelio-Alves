@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\ordernar\\ordernar.csproj",
+      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46 Interface IComparable 3\\ordernar.csproj",
       "projectName": "ordernar",
-      "projectPath": "C:\\Users\\rolim\\Desktop\\ordernar\\ordernar.csproj",
+      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46 Interface IComparable 3\\ordernar.csproj",
       "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolim\\Desktop\\ordernar\\obj\\",
+      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Ex46 Interface IComparable 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -27,15 +27,15 @@ namespace ordernar.Entities
 
             //  return Name.CompareTo(other.Name);
             //  return Id.CompareTo(other.Id);
-             return Salary.CompareTo(other.Salary);
+             return Id.CompareTo(other.Id);
         }
 
 
         public override string ToString()
         {
             return "Name: " + Name +
-                "Id: " + Id +
-                "Salary: " + Salary.ToString("F2", CultureInfo.InvariantCulture);
+                " Id: " + Id +
+                " Salary: " + Salary.ToString("F2", CultureInfo.InvariantCulture);
 
         }
     }
