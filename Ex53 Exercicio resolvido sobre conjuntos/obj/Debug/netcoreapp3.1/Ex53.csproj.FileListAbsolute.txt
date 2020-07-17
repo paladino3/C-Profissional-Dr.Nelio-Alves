@@ -1,0 +1,13 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\bin\Debug\netcoreapp3.1\Ex53.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\bin\Debug\netcoreapp3.1\Ex53.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\bin\Debug\netcoreapp3.1\Ex53.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\bin\Debug\netcoreapp3.1\Ex53.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\bin\Debug\netcoreapp3.1\Ex53.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\bin\Debug\netcoreapp3.1\Ex53.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex53 Exercicio resolvido sobre conjuntos\obj\Debug\netcoreapp3.1\Ex53.genruntimeconfig.cache

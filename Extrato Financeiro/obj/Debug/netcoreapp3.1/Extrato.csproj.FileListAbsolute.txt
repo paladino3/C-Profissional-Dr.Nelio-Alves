@@ -1,0 +1,26 @@
+C:\Users\rolim\Desktop\Extrato\bin\Debug\netcoreapp3.1\Extrato.exe
+C:\Users\rolim\Desktop\Extrato\bin\Debug\netcoreapp3.1\Extrato.deps.json
+C:\Users\rolim\Desktop\Extrato\bin\Debug\netcoreapp3.1\Extrato.runtimeconfig.json
+C:\Users\rolim\Desktop\Extrato\bin\Debug\netcoreapp3.1\Extrato.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Extrato\bin\Debug\netcoreapp3.1\Extrato.dll
+C:\Users\rolim\Desktop\Extrato\bin\Debug\netcoreapp3.1\Extrato.pdb
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.dll
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.pdb
+C:\Users\rolim\Desktop\Extrato\obj\Debug\netcoreapp3.1\Extrato.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\bin\Debug\netcoreapp3.1\Extrato.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\bin\Debug\netcoreapp3.1\Extrato.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\bin\Debug\netcoreapp3.1\Extrato.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\bin\Debug\netcoreapp3.1\Extrato.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\bin\Debug\netcoreapp3.1\Extrato.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\bin\Debug\netcoreapp3.1\Extrato.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Extrato\obj\Debug\netcoreapp3.1\Extrato.genruntimeconfig.cache
