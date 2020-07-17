@@ -11,7 +11,6 @@ namespace Ex54.Entities
 
         HashSet<Course> courses = new HashSet<Course>();
 
-
         public override int GetHashCode()
         {
             return Id.GetHashCode();
