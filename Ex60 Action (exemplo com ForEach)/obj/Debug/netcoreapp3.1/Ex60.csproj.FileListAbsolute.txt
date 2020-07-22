@@ -1,0 +1,26 @@
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\bin\Debug\netcoreapp3.1\Ex60.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\bin\Debug\netcoreapp3.1\Ex60.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\bin\Debug\netcoreapp3.1\Ex60.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\bin\Debug\netcoreapp3.1\Ex60.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\bin\Debug\netcoreapp3.1\Ex60.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\bin\Debug\netcoreapp3.1\Ex60.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60\obj\Debug\netcoreapp3.1\Ex60.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\bin\Debug\netcoreapp3.1\Ex60.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\bin\Debug\netcoreapp3.1\Ex60.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\bin\Debug\netcoreapp3.1\Ex60.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\bin\Debug\netcoreapp3.1\Ex60.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\bin\Debug\netcoreapp3.1\Ex60.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\bin\Debug\netcoreapp3.1\Ex60.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex60 Action (exemplo com ForEach)\obj\Debug\netcoreapp3.1\Ex60.genruntimeconfig.cache
