@@ -11,3 +11,16 @@ C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51\obj\Debug\netco
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51\obj\Debug\netcoreapp3.1\Ex51.dll
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51\obj\Debug\netcoreapp3.1\Ex51.pdb
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51\obj\Debug\netcoreapp3.1\Ex51.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\bin\Debug\netcoreapp3.1\Ex51.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\bin\Debug\netcoreapp3.1\Ex51.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\bin\Debug\netcoreapp3.1\Ex51.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\bin\Debug\netcoreapp3.1\Ex51.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\bin\Debug\netcoreapp3.1\Ex51.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\bin\Debug\netcoreapp3.1\Ex51.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex51 HashSet e SortedSet PARTE 2\obj\Debug\netcoreapp3.1\Ex51.genruntimeconfig.cache
