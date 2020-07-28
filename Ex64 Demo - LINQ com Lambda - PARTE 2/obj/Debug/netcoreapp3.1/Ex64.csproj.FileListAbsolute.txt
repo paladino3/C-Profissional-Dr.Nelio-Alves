@@ -11,3 +11,16 @@ C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64\obj\Debug\netco
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64\obj\Debug\netcoreapp3.1\Ex64.dll
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64\obj\Debug\netcoreapp3.1\Ex64.pdb
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64\obj\Debug\netcoreapp3.1\Ex64.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\bin\Debug\netcoreapp3.1\Ex64.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\bin\Debug\netcoreapp3.1\Ex64.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\bin\Debug\netcoreapp3.1\Ex64.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\bin\Debug\netcoreapp3.1\Ex64.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\bin\Debug\netcoreapp3.1\Ex64.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\bin\Debug\netcoreapp3.1\Ex64.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Ex64 Demo - LINQ com Lambda - PARTE 2\obj\Debug\netcoreapp3.1\Ex64.genruntimeconfig.cache

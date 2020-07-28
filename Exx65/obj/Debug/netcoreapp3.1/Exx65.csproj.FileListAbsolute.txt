@@ -1,0 +1,26 @@
+C:\Users\rolim\source\repos\Exx65\bin\Debug\netcoreapp3.1\Exx65.exe
+C:\Users\rolim\source\repos\Exx65\bin\Debug\netcoreapp3.1\Exx65.deps.json
+C:\Users\rolim\source\repos\Exx65\bin\Debug\netcoreapp3.1\Exx65.runtimeconfig.json
+C:\Users\rolim\source\repos\Exx65\bin\Debug\netcoreapp3.1\Exx65.runtimeconfig.dev.json
+C:\Users\rolim\source\repos\Exx65\bin\Debug\netcoreapp3.1\Exx65.dll
+C:\Users\rolim\source\repos\Exx65\bin\Debug\netcoreapp3.1\Exx65.pdb
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.csprojAssemblyReference.cache
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.csproj.CoreCompileInputs.cache
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.AssemblyInfoInputs.cache
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.AssemblyInfo.cs
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.dll
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.pdb
+C:\Users\rolim\source\repos\Exx65\obj\Debug\netcoreapp3.1\Exx65.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\bin\Debug\netcoreapp3.1\Exx65.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\bin\Debug\netcoreapp3.1\Exx65.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\bin\Debug\netcoreapp3.1\Exx65.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\bin\Debug\netcoreapp3.1\Exx65.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\bin\Debug\netcoreapp3.1\Exx65.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\bin\Debug\netcoreapp3.1\Exx65.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\Exx65\obj\Debug\netcoreapp3.1\Exx65.genruntimeconfig.cache
