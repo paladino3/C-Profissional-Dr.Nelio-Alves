@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+using System.Linq;
 namespace Exx65.Entities
 {
     class Palavra
@@ -11,7 +11,6 @@ namespace Exx65.Entities
 
         public override string ToString()
         {
-
             return "\n" + Categoria.Nome + "            \t" + Nome;
         }
     }
