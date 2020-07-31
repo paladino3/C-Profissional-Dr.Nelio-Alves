@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Exx65\\Exx65.csproj",
+      "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley exemplo Stop\\Exx65.csproj",
       "projectName": "Exx65",
-      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Exx65\\Exx65.csproj",
+      "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley exemplo Stop\\Exx65.csproj",
       "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Exx65\\obj\\",
+      "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\Wesley exemplo Stop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
