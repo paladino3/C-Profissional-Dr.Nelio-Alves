@@ -27,17 +27,15 @@ namespace Ex66
                     list.Add(new Product(name, price));
                 }
 
-
             }
 
             var avg = list.Select(p => p.Price).DefaultIfEmpty(0.0).Average();
             Console.WriteLine("Average price =  " + avg.ToString("F2", CultureInfo.InvariantCulture));
 
             var names = list.Where(x => x.Price < avg).OrderByDescending(x => x.Name).Select(x => x.Name);
-            foreach(string item in names)
+            foreach (string item in names)
             {
-
-            Console.WriteLine(item);
+                Console.WriteLine(item);
             }
 
         }
