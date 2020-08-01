@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\5\\5\\5.csproj": {}
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio 02_Facil\\5\\5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\5\\5\\5.csproj": {
+    "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio 02_Facil\\5\\5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\5\\5\\5.csproj",
+        "projectUniqueName": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio 02_Facil\\5\\5.csproj",
         "projectName": "5",
-        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\5\\5\\5.csproj",
+        "projectPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio 02_Facil\\5\\5.csproj",
         "packagesPath": "C:\\Users\\rolim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\5\\5\\obj\\",
+        "outputPath": "C:\\Users\\rolim\\Desktop\\Curso C# Profissional Dr.Nelio Alves\\desafio 02_Facil\\5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

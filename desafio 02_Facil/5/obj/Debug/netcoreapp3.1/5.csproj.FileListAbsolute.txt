@@ -11,3 +11,16 @@ C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\5\5\obj\Debug\netcor
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\5\5\obj\Debug\netcoreapp3.1\5.dll
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\5\5\obj\Debug\netcoreapp3.1\5.pdb
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\5\5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\bin\Debug\netcoreapp3.1\5.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\bin\Debug\netcoreapp3.1\5.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\bin\Debug\netcoreapp3.1\5.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\bin\Debug\netcoreapp3.1\5.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 02_Facil\5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache

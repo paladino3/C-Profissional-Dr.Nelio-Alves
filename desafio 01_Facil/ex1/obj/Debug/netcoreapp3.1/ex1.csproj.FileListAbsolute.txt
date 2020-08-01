@@ -23,3 +23,16 @@ C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio1\ex1\obj\Deb
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio1\ex1\obj\Debug\netcoreapp3.1\ex1.dll
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio1\ex1\obj\Debug\netcoreapp3.1\ex1.pdb
 C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio1\ex1\obj\Debug\netcoreapp3.1\ex1.genruntimeconfig.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\bin\Debug\netcoreapp3.1\ex1.exe
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\bin\Debug\netcoreapp3.1\ex1.deps.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.dev.json
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\bin\Debug\netcoreapp3.1\ex1.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\bin\Debug\netcoreapp3.1\ex1.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.dll
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.pdb
+C:\Users\rolim\Desktop\Curso C# Profissional Dr.Nelio Alves\desafio 01_Facil\ex1\obj\Debug\netcoreapp3.1\ex1.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+1,CachorroQuente,4.00
+2,X-Salada,4.50
+3,X-bacon,5.00
+4,TorradaSimples,2.00
+5,Refrigerante,1.50
