@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace Ex1Traducao
+namespace Ex66
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }

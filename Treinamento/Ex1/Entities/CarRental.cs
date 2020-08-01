@@ -8,13 +8,13 @@ namespace Ex1.Entities
         public DateTime Finish { get; set; }  //Saida
         public Invoice Invoice { get; set; }  //Nota Fiscal
         public Vehicle Vehicle { get; set; }  //Veiculo Modelo
-/*
-        public CarRental(DateTime start, DateTime finish, Vehicle vehicle)
+
+     /*   public CarRental(DateTime start, DateTime finish, Vehicle vehicle)
         {
             Start = start;
             Finish = finish;
             Vehicle = vehicle;
         }
-*/
+        */
     }
 }

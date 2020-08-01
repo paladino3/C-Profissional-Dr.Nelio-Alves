@@ -26,7 +26,7 @@ namespace Ex1.Services
             double total = 0.0;
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start); //tempo gasto
 
-            if (duration.TotalHours <= 12)
+          /*  if (duration.TotalHours <= 12)
             {
                 total = PricePerHour * Math.Ceiling(duration.TotalHours);
             }
@@ -34,6 +34,10 @@ namespace Ex1.Services
             {
                 total = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
+*/
+
+            total = (duration.TotalHours <= 12) ? total = PricePerHour * Math.Ceiling(duration.TotalHours) : total = PricePerDay * Math.Ceiling(duration.TotalDays);
+
             double tax = _ITaxService.Tax(total);
 
             carRental.Invoice = new Invoice(total, tax);

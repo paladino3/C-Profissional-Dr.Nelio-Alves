@@ -4,7 +4,7 @@
     {
         public double Tax(double amount) //Servico De Taxacao do Brasil
         {
-            if (amount <= 100.00)
+          /*  if (amount <= 100.00)
             {
                 return amount * 0.20;
             }
@@ -12,6 +12,8 @@
             {
                 return amount * 0.15;
             }
+*/
+            return (amount <= 100) ? amount *  0.20 : amount * 0.15; 
         } 
     }
 }
