@@ -38,18 +38,27 @@ namespace ex2
             // string[] vetors = Console.ReadLine().Split(',');
             // int p = int.Parse(vetors[0].Trim());
 
-
+            int cont = 0;
             double total = 0.0;
-
+            string info = "";
             Console.Write("\n\nDigite o seu pedido, (código): ");
             int n = int.Parse(Console.ReadLine());
 
             var valorPedido = lista.Where(x => x.Lanche.Cod == n).Select(x => x.Lanche.Preco);
+            var pedidoInfo = lista.Where(p => p.Lanche.Cod == n).Select(p => p.Lanche.Nome);
             foreach (var item in valorPedido)
             {
+                if (item > 1)
+                {
+                    cont++;
+                }
                 total += item;
             }
-            Console.WriteLine(total);
+            foreach (var item in pedidoInfo)
+            {
+                info += item;
+            }
+            Console.WriteLine("Pedido: " + info + ", Valor R$: " + total.ToString("F2", CultureInfo.InvariantCulture));
 
             string resp = "s";
 
@@ -62,12 +71,16 @@ namespace ex2
                     Console.Write("\n\nDigite o seu pedido, (código): ");
                     n = int.Parse(Console.ReadLine());
                     valorPedido = lista.Where(x => x.Lanche.Cod == n).Select(x => x.Lanche.Preco);
-
+                    pedidoInfo = lista.Where(p => p.Lanche.Cod == n).Select(p => p.Lanche.Nome);
                     foreach (var item in valorPedido)
                     {
                         total += item;
                     }
-                    Console.WriteLine(total);
+                    foreach (var item in pedidoInfo)
+                    {
+                        info += ", " +item;
+                    }
+                    Console.WriteLine("Pedido: " + info + ", Valor R$: " + total.ToString("F2", CultureInfo.InvariantCulture));
                 }
                 else
                 {
@@ -77,8 +90,8 @@ namespace ex2
 
             }
 
-            
-            Console.WriteLine("\nO valor do pedido ficou em R$"+total.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("\n\nPedido: " + info + ", Valor R$: " + total.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("O valor total do pedido ficou em R$" + total.ToString("F2", CultureInfo.InvariantCulture));
 
 
 
